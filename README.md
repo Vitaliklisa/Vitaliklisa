@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
 
- <a href="https://mywishboard.com/@vitalik" target="_blank" rel="noopener noreferrer">
-  <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@vitalik" alt="My wish-board badge"/>
+ <a href="https://mywishboard.com/@vitalii_khomenko" target="_blank" rel="noopener noreferrer">
+  <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@vitalii_khomenko" alt="My wish-board badge"/>
  </a>
  
  <a href="https://www.linkedin.com/in/vitaliikhomenko/">
